@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Giiki</h1>
+<h1 align="center">Hi, I'm Madhusmita</h1>
 <p align="center">A Computer Science undergrad who learns by digging deeper, breaking gently, and building again.</p>
 
 ---
