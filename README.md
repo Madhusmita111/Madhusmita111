@@ -1,4 +1,4 @@
-# 🌑 Hello, I'm Madhusmita
+#🌑 Hello, I'm Madhusmita
 
 _I build systems that think, learn, defend, and scale._  
 ---
@@ -7,13 +7,12 @@ _I build systems that think, learn, defend, and scale._
 I’m a 3rd-year CSE student working across  
 **AI · ML · Cybersecurity · Cloud · Data Science**  
 to create systems that are fast, aware, and reliable.
-
 I like clean logic, meaningful systems, and ideas that grow into tools.  
 I choose clarity over noise, originality over trends,
 and impact over aesthetics — while still caring about aesthetics.
 ---
 
-## 🧠 What I Do    
+## What I Do    
 - Work with structured/unstructured data pipelines  
 - Build ML models that predict, detect, adapt
 - Analyse data and convert chaos → clarity
@@ -23,7 +22,7 @@ and impact over aesthetics — while still caring about aesthetics.
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 ## Data Science & Analytics
 - Python, NumPy, pandas, Matplotlib, Seaborn  
