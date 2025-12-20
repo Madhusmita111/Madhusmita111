@@ -1,9 +1,9 @@
-#🌑 Hello, I'm Madhusmita
+## Hello, I'm Madhusmita
 
 _I build systems that think, learn, defend, and scale._  
 ---
 
-## 🖤 About Me
+## About Me
 I’m a 3rd-year CSE student working across  
 **AI · ML · Cybersecurity · Cloud · Data Science**  
 to create systems that are fast, aware, and reliable.
