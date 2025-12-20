@@ -1,10 +1,10 @@
 ## Hello, I'm Madhusmita
 
-_I build systems that think, learn, defend, and scale._  
+- I build systems that think, learn, defend, and scale._  
 ---
 
 ## About Me
-I’m a 3rd-year CSE student working across  
+-- I’m a 3rd-year CSE student working across  
 **AI · ML · Cybersecurity · Cloud · Data Science**  
 to create systems that are fast, aware, and reliable.
 I like clean logic, meaningful systems, and ideas that grow into tools.  
