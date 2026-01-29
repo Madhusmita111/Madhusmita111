@@ -1,11 +1,11 @@
 ## Hello, I'm Madhusmita
 
-- I build systems that think, learn, defend, and scale._  
+- I build systems that think, learn, defend, and scale.
 ---
 
 ## About Me
 - I’m a 3rd-year CSE student working across  
-**AI · ML · Cybersecurity · Cloud · Data Science**  
+**Data Science · ML · AI · · Cloud**  
 to create systems that are fast, aware, and reliable.
 I like clean logic, meaningful systems, and ideas that grow into tools.  
 I choose clarity over noise, originality over trends,
@@ -15,7 +15,7 @@ and impact over aesthetics — while still caring about aesthetics.
 ## What I Do    
 - Work with structured/unstructured data pipelines  
 - Build ML models that predict, detect, adapt
-- Analyse data and convert chaos → clarity
+- Analyse data and convert chaos into clarity
 - Create AI-driven threat-intelligence workflows
 - Work with structured/unstructured data pipelines 
 - Push abstract ideas until they turn into usable technology 
