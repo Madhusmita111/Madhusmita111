@@ -1,7 +1,7 @@
 ## Hello,  I'm Madhusmita
 
 - I build systems that think, learn, defend, and scale.
----
+--
 
 ## About Me
 - I’m a 3rd-year CSE student working across  
