@@ -1,119 +1,93 @@
-<h1 align="center">Hi 👋, I'm Madhusmita</h1>
+<h1 align="center">Madhusmita 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Data+Science+Explorer;Building+Intelligent+Systems;Turning+Data+into+Decisions;Future+Top+Tech+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=22F7FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Data+Science+Explorer;Building+Intelligent+Systems;Turning+Data+into+Impact" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## About
 
+<p align="center">
 I build systems that think, learn, defend, and scale.
+</p>
 
-- 🎓 3rd Year B.Tech CSE (Data Science)  
-- 🤖 Working across **AI · ML · Data Science · Cloud**  
-- ⚡ Turning raw data into intelligent systems  
-- 🎯 Target: Top product-based companies  
-
----
-
-## ⚙️ Tech Stack
-
-### 🚀 Programming
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,linux,bash" />
+3rd Year CSE (Data Science)  
+AI · ML · Data Systems · Cloud  
+Turning data into intelligent systems 
 </p>
 
 ---
 
-### 📊 Data Science & Analytics
+## ⚙️ Tech Universe
+
 <p align="center">
-  NumPy • Pandas • Matplotlib • Seaborn • Power BI • Excel • DAX
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,linux,bash,tensorflow,pytorch,aws,docker,git,github,vscode,google colab,flask,numpy,pandas,power BI, excel" />
+</p>
+
+<p align="center">
+<b>Data:</b> NumPy • Pandas • Matplotlib • Seaborn • Power BI • Excel • DAX  
+<br>
+<b>ML:</b> Scikit-learn • XGBoost • LightGBM • SVM • Random Forest • PCA  
+<br>
+<b>Security:</b> OSINT • Phishing Detection • Anomaly Detection • SIEM  
+<br>
+<b>Data Eng:</b> PostgreSQL • MySQL • ETL • APIs • JSON • XML  
 </p>
 
 ---
 
-### 🤖 Machine Learning & AI
+##  GitHub Pulse
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhusmita111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  Scikit-learn • XGBoost • LightGBM • SVM • Logistic Regression • Random Forest  
-  KMeans • DBSCAN • PCA • Model Tuning • Cross Validation
-</p>
-
----
-
-### 🔐 Cybersecurity + AI
-<p align="center">
-  Threat Detection • OSINT APIs • Phishing Detection • Anomaly Detection • SIEM Concepts
+  <img src="https://streak-stats.demolab.com?user=Madhusmita111&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
 
-### ☁️ Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
-</p>
+##  Activity Flow
 
 <p align="center">
-  AWS (EC2, S3, Lambda) • Deployment • Cloud Pipelines
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhusmita111&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
 
-### 🗄️ Databases
+## 🎯 Current Mode
+
 <p align="center">
-  PostgreSQL • MySQL • SQLite • ETL Pipelines • REST APIs • JSON • XML
+ Deep Learning  
+ DSA + Competitive Programming  
+ Cloud Deployment  
+ Threat-Aware ML Systems  
 </p>
 
 ---
 
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman" />
-</p>
-
-
----
-
-## 📊 GitHub Stats
+## 🌐 Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-## 🔥 Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhusmita111&theme=tokyo-night" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
-
-- Deep Learning  
-- DSA & Competitive Programming  
-- Cloud Deployment  
-- Threat-Aware ML Systems  
-
-
----
-
-## ⚡ Quote
-
 <p align="center">
-  <b>"Good systems don’t just work. They adapt, defend, and scale."</b>
+✨ <b>"Good systems don’t just work. They adapt, defend, and scale."</b> ✨
 </p>
