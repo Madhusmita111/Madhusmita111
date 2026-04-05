@@ -1,80 +1,119 @@
-## Hello,  I'm Madhusmita
+<h1 align="center">Hi 👋, I'm Madhusmita</h1>
 
-- I build systems that think, learn, defend, and scale.
---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Data+Science+Explorer;Building+Intelligent+Systems;Turning+Data+into+Decisions;Future+Top+Tech+Engineer" />
+</p>
 
-## About Me
-- I’m a 3rd-year CSE student working across  
-**Data Science · ML · AI · · Cloud**  
-to create systems that are fast, aware, and reliable.
-I like clean logic, meaningful systems, and ideas that grow into tools.  
-I choose clarity over noise, originality over trends,
-and impact over aesthetics — while still caring about aesthetics.
----
-
-## What I Do    
-- Work with structured/unstructured data pipelines  
-- Build ML models that predict, detect, adapt
-- Analyse data and convert chaos into clarity
-- Create AI-driven threat-intelligence workflows
-- Work with structured/unstructured data pipelines 
-- Push abstract ideas until they turn into usable technology 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
 ---
 
-# Tech Stack
+## 🧠 About Me
 
-## Data Science & Analytics
-- Python, NumPy, pandas, Matplotlib, Seaborn  
-- Jupyter, Power BI, Excel, DAX  
-- EDA, Feature Engineering, Data Wrangling  
-- Predictive Analytics, Time Series, A/B Testing  
+I build systems that think, learn, defend, and scale.
 
-## Machine Learning & AI
-- scikit-learn, XGBoost, LightGBM  
-- SVM, Logistic Regression, Random Forest, Decision Trees  
-- Clustering (KMeans, DBSCAN), PCA  
-- Cross-Validation, Model Tuning, ML Pipelines  
+- 🎓 3rd Year B.Tech CSE (Data Science)  
+- 🤖 Working across **AI · ML · Data Science · Cloud**  
+- ⚡ Turning raw data into intelligent systems  
+- 🎯 Target: Top product-based companies  
 
-## Cybersecurity & Threat Intelligence
-- OSINT APIs (VirusTotal, URLScan, AbuseIPDB)  
-- Phishing URL Detection  
-- Threat Prediction Models  
-- Log Analysis, SIEM Patterns  
-- Network Traffic & Anomaly Detection  
-- Secure Computing Concepts  
-
-## Cloud (Learning + Applying)
-- AWS: EC2, S3, Lambda (basics)  
-- Deployment workflows  
-- Cloud-based data pipelines  
-- Environment & access management fundamentals  
-
-## Databases & Data Engineering
-- PostgreSQL, MySQL, SQLite  
-- ETL Pipelines, Data Modeling  
-- REST APIs, JSON, XML  
-
-## Programming
-- Python  
-- C, C++  
-- Bash, Linux Essentials  
-- **DSA & CP** (active learning)
-
-## Tools
-- Git, GitHub  
-- VS Code, PyCharm, Jupyter  
-- Postman  
-- Virtual Environments  
-- Power BI Service  
-- Docker (learning)
-
-## Current Focus
----
-Deep learning.
-DSA + CP.
-Cloud deployment.
-Building threat-aware ML systems.
 ---
 
-<p align="center">Learning is not a race; it is a quiet conversation with curiosity.</p>
+## ⚙️ Tech Stack
+
+### 🚀 Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,linux,bash" />
+</p>
+
+---
+
+### 📊 Data Science & Analytics
+<p align="center">
+  NumPy • Pandas • Matplotlib • Seaborn • Power BI • Excel • DAX
+</p>
+
+---
+
+### 🤖 Machine Learning & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="center">
+  Scikit-learn • XGBoost • LightGBM • SVM • Logistic Regression • Random Forest  
+  KMeans • DBSCAN • PCA • Model Tuning • Cross Validation
+</p>
+
+---
+
+### 🔐 Cybersecurity + AI
+<p align="center">
+  Threat Detection • OSINT APIs • Phishing Detection • Anomaly Detection • SIEM Concepts
+</p>
+
+---
+
+### ☁️ Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+<p align="center">
+  AWS (EC2, S3, Lambda) • Deployment • Cloud Pipelines
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  PostgreSQL • MySQL • SQLite • ETL Pipelines • REST APIs • JSON • XML
+</p>
+
+---
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman" />
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhusmita111&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Deep Learning  
+- DSA & Competitive Programming  
+- Cloud Deployment  
+- Threat-Aware ML Systems  
+
+
+---
+
+## ⚡ Quote
+
+<p align="center">
+  <b>"Good systems don’t just work. They adapt, defend, and scale."</b>
+</p>
