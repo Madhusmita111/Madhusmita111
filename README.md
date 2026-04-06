@@ -76,3 +76,4 @@ DSA + CP.
 Cloud deployment.
 Building threat-aware ML systems.
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Madhusmita111&label=Profile%20Views&color=0e75b6&style=flat)
