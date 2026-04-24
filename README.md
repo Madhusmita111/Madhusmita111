@@ -51,7 +51,7 @@ Data Science • Machine Learning • AI Systems • Cloud Explorer
 ```text
 Data Collection → Data Processing → Feature Engineering → Model Building → 
 Model Optimization → Evaluation → Deployment → Monitoring
-
+```
 Tech Stack Flow
 <table> <tr> <td align="center"><b> Data</b></td> <td align="center"><b> Processing</b></td> <td align="center"><b> Modeling</b></td> <td align="center"><b> Deployment</b></td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=python" /><br> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> </td> <td align="center"> <img src="https://img.shields.io/badge/EDA-Analysis-blue?style=flat"/> <img src="https://img.shields.io/badge/Feature%20Engineering-orange?style=flat"/> <br> <img src="https://img.shields.io/badge/Matplotlib-visualization-black?style=flat"/> <img src="https://img.shields.io/badge/Seaborn-visualization-blue?style=flat"/> </td> <td align="center"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <br> <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=flat"/> <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=aws,docker" /><br> <img src="https://img.shields.io/badge/REST%20API-grey?style=flat"/> </td> </tr> </table>
  Tech Stack
