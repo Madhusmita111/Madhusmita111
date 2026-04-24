@@ -35,7 +35,7 @@ Data → Features → Models → Embeddings → APIs → Deployment
 ## 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,postgresql,git,github,vscode,pycharm,aws,docker,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgresql,numpy,pandas,seaborn,matplotlib,tensorflow,langchain,git,github,vscode,pycharm,aws,docker,kubernetes,fastapi" />
 </p>
 
 <p align="center">
