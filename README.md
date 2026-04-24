@@ -35,7 +35,7 @@ Data → Features → Models → Embeddings → APIs → Deployment
 ## 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgresql,numpy,pandas,seaborn,matplotlib,tensorflow,langchain,git,github,vscode,pycharm,aws,docker,kubernetes,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgresql,seaborn,matplotlib,tensorflow,langchain,fastapi,git,github,vscode,pycharm,aws,docker,kubernetes" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ Data → Features → Models → Embeddings → APIs → Deployment
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
   <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embeddings-AI-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@ Data → Features → Models → Embeddings → APIs → Deployment
 
 <p align="center">
 
-Deep Learning • AI Systems • FastAPI • Cloud ML  
+Deep Learning • AI Systems • Cloud ML  
 
 </p>
 
