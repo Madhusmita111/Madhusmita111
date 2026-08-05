@@ -1,229 +1,130 @@
 <div align="center">
 
-# MADHU OS
+# Hi, I'm Madhu 👋
 
-### The Operating System for Intelligent Data Systems
+### AI Engineer • Machine Learning • Data Engineering
 
 <p>
-Building production-grade AI, Machine Learning, Data Engineering and Intelligent Analytics systems.
+I enjoy building intelligent systems that turn data into meaningful decisions.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&center=true&vCenter=true&width=900&lines=Booting+MADHU+OS...;Initializing+Python+Kernel...;Loading+Machine+Learning+Engine...;Connecting+Distributed+Data+Systems...;Deploying+Intelligent+Applications..." />
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Engineering+data+into+intelligence;Always+learning.+Always+building." />
+</p>
 
-<br>
+<p>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58A6FF)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58A6FF"/>
 
 </div>
 
 ---
 
-# System Status
+## 👨‍💻 About Me
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Core Engine            ● ONLINE
-
-Python Kernel          ● ACTIVE
-
-Machine Learning       ● ACTIVE
-
-Data Engineering       ● ACTIVE
-
-Analytics              ● ACTIVE
-
-Curiosity Engine       ● RUNNING
-
-Version                MADHU OS v1.0
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+- 🎓 Final-year Computer Science student
+- 🤖 Interested in AI, Machine Learning & Data Engineering
+- 🚀 Building production-ready intelligent systems
+- 🌱 Exploring Agentic AI, MLOps & Distributed Systems
+- 💡 Always curious to learn something new
 
 ---
 
-# Boot Sequence
+## 🚀 Currently
 
-```console
-> boot madhu_os
-
-Loading Python Kernel................... ██████████████ 100%
-
-Loading Machine Learning Engine......... ██████████████ 100%
-
-Loading Data Engineering Layer.......... ██████████████ 100%
-
-Loading LLM Runtime..................... ██████████████ 100%
-
-Loading Analytics Engine................ ██████████████ 100%
-
-Loading Curiosity....................... ∞
-
-System Status
-
-READY
-```
+- 🔨 Building AI-powered applications
+- 📊 Designing scalable data pipelines
+- 📚 Learning Kubernetes, Spark & AWS
+- ✍️ Writing technical blogs and documenting projects
 
 ---
 
-# Mission Control
+## 🛠 Tech Stack
 
-Artificial Intelligence becomes valuable only when it is supported by reliable data systems.
+**Languages**
 
-My mission is to build **production-ready intelligent systems** that combine machine learning, data engineering, analytics, and modern software engineering to solve real-world problems.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-Rather than treating AI models as isolated experiments, I enjoy designing complete systems where data flows seamlessly from ingestion to intelligent decision-making.
+**AI & ML**
 
----
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-# Current Mission
+**Data**
 
-```yaml
-Current Focus:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-  • Agentic AI
+**Tools**
 
-  • LLM Applications
-
-  • Machine Learning
-
-  • Data Engineering
-
-  • MLOps
-
-Building:
-
-  • AI Data Analyst
-
-  • Intelligent Data Pipelines
-
-  • GraphRAG Systems
-
-Learning:
-
-  • Kubernetes
-
-  • Spark
-
-  • AWS
-
-  • LangGraph
-
-Next Objective:
-
-  Building Enterprise AI Systems
-```
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
-# System Diagnostics
+## 🌟 Featured Projects
 
-```text
-CPU
+### 🤖 AI Data Analyst
+Conversational analytics platform powered by LLMs and FastAPI.
 
-Building AI Systems
+### ⚡ QuickLake
+Real-time data engineering pipeline using Kafka, Spark and modern data architecture.
 
-█████████████████████░░░ 90%
+### 📊 CrimeLens
+Analytics platform built on 250K+ crime records to discover spatial and temporal patterns.
 
-Memory
-
-Learning Distributed Systems
-
-█████████████████░░░░░░░ 75%
-
-Storage
-
-Ideas
-
-∞
-
-Network
-
-Open Source
-
-███████████░░░░░░░░░░░░░ 55%
-
-Current Status
-
-ONLINE
-```
+### 🛡 Smart URL Shield
+Machine Learning based malicious URL detection system.
 
 ---
 
-# MADHU OS
+## 📈 GitHub Analytics
 
-## Core Components
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-| Layer | Stack |
-|:------|:------|
-| Kernel | Python |
-| AI Engine | Scikit-Learn · TensorFlow · PyTorch |
-| Data Layer | SQL · PostgreSQL · Spark |
-| Analytics | Pandas · NumPy · Power BI · Tableau |
-| Infrastructure | Docker · Kubernetes · AWS |
-| Backend | FastAPI |
-| Frontend | Streamlit |
-| Version Control | Git · GitHub |
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
 
----
-
-# Engineering Philosophy
-
-✔ Build systems, not scripts.
-
-✔ Design for scale.
-
-✔ Keep models explainable.
-
-✔ Automate repetitive work.
-
-✔ Make data tell stories.
-
-✔ Learn continuously.
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
-# System Dependency Graph
+## 💭 Philosophy
 
-```text
-                        Intelligence
-
-                  ┌─────────┴─────────┐
-
-                  │                   │
-
-          Machine Learning      Data Engineering
-
-                  │                   │
-
-        Python • Scikit-Learn     SQL • Spark
-
-                  │                   │
-
-           FastAPI APIs          Docker • AWS
-
-                  └─────────┬─────────┘
-
-                            │
-
-                    Intelligent Systems
-```
+> *"Good models make predictions. Great systems create impact."*
 
 ---
 
-# Installed Modules
+## 🤝 Let's Connect
 
-Every repository represents a subsystem of MADHU OS.
+<p align="center">
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
+</p>
 
-| Module | Purpose | Status |
-|:--------|:--------|:------:|
-| 🤖 AI Data Analyst | Conversational Data Analytics | 🟢 ONLINE |
-| ⚡ QuickLake | Real-Time Data Engineering | 🟢 STREAMING |
-| 🧠 GraphRAG | Knowledge Retrieval | 🟢 ACTIVE |
-| 📊 CrimeLens | Crime Pattern Intelligence | 🟢 READY |
-| 🌐 Smart URL Shield | Malicious URL Detection | 🟢 STABLE |
-| 🏅 Olympic Analytics | Sports Intelligence Dashboard | 🟢 DEPLOYED |
+<div align="center">
 
----
+### Thanks for visiting!
+
+*Always learning. Always building.*
+
+</div>
