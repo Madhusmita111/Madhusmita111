@@ -37,6 +37,8 @@ while True:
 ```
 
 </td>
+</tr>
+</table>
 
 <td width="62%" valign="top">
 
@@ -240,9 +242,7 @@ VS Code • Git • GitHub • Postman • Jupyter
 
 </td>
 
-</tr>
 
-</table>
 
 </div>
 
@@ -312,13 +312,13 @@ Python • SQL • Machine Learning • Data Science • AI Engineering • Powe
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/madhusmitatalukdar/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:tmadhusmita011@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -330,19 +330,9 @@ Python • SQL • Machine Learning • Data Science • AI Engineering • Powe
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Madhusmita111">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Madhusmita111/Madhusmita111/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
