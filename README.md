@@ -4,7 +4,7 @@
 
 <br>
 
-<h1>Madhu</h1>
+<h1>Hey, I'm Madhusmita</h1>
 
 <h3>AI Engineer • Machine Learning • Data Science</h3>
 
@@ -194,7 +194,7 @@ Building systems that don't simply process information, but transform it into un
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusmita111&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -202,7 +202,7 @@ Building systems that don't simply process information, but transform it into un
 
 <div align="center">
 
-<img width="65%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=Madhusmita111&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -253,15 +253,4 @@ Building systems that don't simply process information, but transform it into un
 <a href="https://github.com/Madhusmita111">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
-
 </div>
-
----
-
-<a href="https://github.com/Madhusmita111">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</div>
-
----
