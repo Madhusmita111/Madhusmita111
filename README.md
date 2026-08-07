@@ -37,8 +37,7 @@ while True:
 ```
 
 </td>
-</tr>
-</table>
+
 
 <td width="62%" valign="top">
 
@@ -62,6 +61,9 @@ Building systems that don't simply process information, but transform it into un
 - 📊 Machine Learning
 - ☁️ Data Engineering
 
+<br>
+</tr>
+</table>
 <br>
 # 💻 Tech Stack
 
@@ -243,6 +245,9 @@ VS Code • Git • GitHub • Postman • Jupyter
 </td>
 
 
+</tr>
+
+</table>
 
 </div>
 
@@ -264,9 +269,6 @@ Python • SQL • Machine Learning • Data Science • AI Engineering • Powe
 
 </td>
 
-</tr>
-
-</table>
 
 # 📊 GitHub Analytics
 
