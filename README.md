@@ -69,82 +69,58 @@ Building systems that don't simply process information, but transform it into un
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td align="center" width="50%">
-
-### 👨‍💻 Programming
+## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,mysql" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-</td>
+---
 
-<td align="center" width="50%">
-
-### 📊 Data Science
+## 📊 Data Science
 
 <p>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
-
-</p>
-
-<p>
-
-NumPy • Pandas • Scikit-learn • Matplotlib
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
 
 </p>
 
-</td>
+**NumPy • Pandas • Scikit-learn • Matplotlib**
 
-</tr>
+---
 
-<tr>
-
-<td align="center">
-
-### 🤖 AI & Machine Learning
+## 🤖 Machine Learning & AI
 
 <p>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="55"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="55"/>
 
 <img src="https://skillicons.dev/icons?i=opencv"/>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="48"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="48"/>
-
 </p>
 
-<p>
+**TensorFlow • PyTorch • Hugging Face • LangChain • OpenCV**
 
-TensorFlow • PyTorch • OpenCV • Hugging Face • LangChain
+---
 
-</p>
-
-</td>
-
-<td align="center">
-
-### ⚡ Backend & APIs
+## ⚡ Backend & APIs
 
 <p>
 
@@ -152,21 +128,11 @@ TensorFlow • PyTorch • OpenCV • Hugging Face • LangChain
 
 </p>
 
-<p>
+**FastAPI • Flask • REST APIs**
 
-FastAPI • Flask • REST APIs
+---
 
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
 
@@ -174,17 +140,11 @@ FastAPI • Flask • REST APIs
 
 </p>
 
-<p>
+**PostgreSQL • MySQL • MongoDB**
 
-PostgreSQL • MySQL • MongoDB
+---
 
-</p>
-
-</td>
-
-<td align="center">
-
-### ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 <p>
 
@@ -192,80 +152,38 @@ PostgreSQL • MySQL • MongoDB
 
 </p>
 
-<p>
+**AWS • Docker • Kubernetes • Linux • Git • GitHub**
 
-AWS • Docker • Kubernetes • Git • Linux
+---
 
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 📈 Analytics & BI
+## 📈 Analytics & BI
 
 <p>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau" height="55"/>
 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
-
-</p>
-
-<p>
-
-Power BI • Tableau • Excel
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="55"/>
 
 </p>
 
-</td>
+**Power BI • Tableau • Excel**
 
-<td align="center">
+---
 
-### 🛠 Development Tools
+## 🛠️ Development Tools
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 
 </p>
 
-<p>
-
-VS Code • Git • GitHub • Postman • Jupyter
-
-</p>
-
-</td>
-
-
-</tr>
-
-</table>
+**VS Code • Git • GitHub • Postman • Jupyter Notebook**
 
 </div>
 
----
-
-### 💬 Let's Talk About
-
-Python • SQL • Machine Learning • Data Science • AI Engineering • Power BI
-
-<br>
-
-### ⚡ Philosophy
-
-> Curiosity over trends.
-
-> Understanding over memorization.
-
-> Building over talking.
 
 </td>
 
@@ -292,7 +210,7 @@ Python • SQL • Machine Learning • Data Science • AI Engineering • Powe
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&radius=12"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Madhusmita111&theme=github-dark&hide_border=true&radius=12"/>
 
 </div>
 
@@ -314,23 +232,31 @@ Python • SQL • Machine Learning • Data Science • AI Engineering • Powe
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/madhusmitatalukdar/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/madhusmitatalukdar/)">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:tmadhusmita011@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://madhufolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Madhusmita111">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+</div>
+
+---
 
 <a href="https://github.com/Madhusmita111">
 <img src="https://skillicons.dev/icons?i=github"/>
