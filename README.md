@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=observe()+%E2%86%92+question()+%E2%86%92+build()+%E2%86%92+improve();AI+Engineering+%7C+Machine+Learning+%7C+Data+Science;Building+Systems+That+Learn." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=observe()+%E2%86%92+question()+%E2%86%92+build()+%E2%86%92+improve();AI+Engineering+%7C+Machine+Learning+%7C+Data+Science;Building+Intelligent+Systems"/>
 
 <br>
 
-<h1>Hi 👋, I'm Madhusmita</h1>
+<h1>Madhu</h1>
+
+<h3>AI Engineer • Machine Learning • Data Science</h3>
 
 <p>
-<b>AI Engineer • Machine Learning • Data Science</b>
+Turning curiosity into intelligent systems.
 </p>
 
 </div>
@@ -17,108 +19,48 @@
 # 💫 About Me
 
 <table>
+
 <tr>
 
-<td width="45%">
+<td width="38%" valign="top">
 
 ```python
 while True:
+
     observe()
+
     question()
+
     build()
+
     improve()
 ```
 
 </td>
 
-<td width="55%">
+<td width="62%" valign="top">
 
 ### 🛰️ Current Signal
 
-Exploring the intersection of **AI, data, and intelligent systems.**
-
----
-
-### 🧩 What Drives Me
-
-Building systems that don't just process information,
-but transform it into understanding.
-
----
-
-### 🌱 Currently Exploring
-
-- Agentic AI
-- Large Language Models
-- Machine Learning
-- FastAPI
-- Data Engineering
-
----
-
-### 💬 Let's Talk About
-
-Python • Machine Learning • SQL • Power BI • AI Engineering
-
----
-
-### ⚡ Philosophy
-
-> Curiosity over trends.
->
-> Understanding over memorization.
->
-> Building over talking.
-
-</td>
-
-</tr>
-
-</table>
+Exploring the intersection of **AI**, **Data**, and **Intelligent Systems**.
 
 <br>
 
-<div align="center">
+### 🧩 What Drives Me
 
-> *Every repository begins with a question.*
->
-> *Every commit is an attempt at a better answer.*
+Building systems that don't simply process information, but transform it into understanding.
 
-</div>
+<br>
 
----
+### 🌱 Currently Exploring
 
-# 🌐 Connect With Me
+- 🤖 Agentic AI
+- 🧠 Large Language Models
+- ⚡ FastAPI
+- 📊 Machine Learning
+- ☁️ Data Engineering
 
-<div align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://madhufolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</div>
-
----
-
-
+<br>
 # 💻 Tech Stack
 
 <div align="center">
@@ -129,10 +71,15 @@ Python • Machine Learning • SQL • Power BI • AI Engineering
 
 <td align="center" width="50%">
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,c" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 </td>
@@ -143,13 +90,19 @@ Python • Machine Learning • SQL • Power BI • AI Engineering
 
 <p>
 
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
 
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
 
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
+
+</p>
+
+<p>
+
+NumPy • Pandas • Scikit-learn • Matplotlib
 
 </p>
 
@@ -161,19 +114,25 @@ Python • Machine Learning • SQL • Power BI • AI Engineering
 
 <td align="center">
 
-### 🤖 Machine Learning & AI
+### 🤖 AI & Machine Learning
 
 <p>
 
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="45"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="48"/>
 
-<img src="https://skillicons.dev/icons?i=opencv" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="48"/>
+
+</p>
+
+<p>
+
+TensorFlow • PyTorch • OpenCV • Hugging Face • LangChain
 
 </p>
 
@@ -186,6 +145,12 @@ Python • Machine Learning • SQL • Power BI • AI Engineering
 <p>
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+
+</p>
+
+<p>
+
+FastAPI • Flask • REST APIs
 
 </p>
 
@@ -205,6 +170,12 @@ Python • Machine Learning • SQL • Power BI • AI Engineering
 
 </p>
 
+<p>
+
+PostgreSQL • MySQL • MongoDB
+
+</p>
+
 </td>
 
 <td align="center">
@@ -214,6 +185,12 @@ Python • Machine Learning • SQL • Power BI • AI Engineering
 <p>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github" />
+
+</p>
+
+<p>
+
+AWS • Docker • Kubernetes • Git • Linux
 
 </p>
 
@@ -229,7 +206,15 @@ Python • Machine Learning • SQL • Power BI • AI Engineering
 
 <p>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau,excel" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau" height="48"/>
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+
+</p>
+
+<p>
+
+Power BI • Tableau • Excel
 
 </p>
 
@@ -241,7 +226,15 @@ Python • Machine Learning • SQL • Power BI • AI Engineering
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,jupyter" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
+
+</p>
+
+<p>
+
+VS Code • Git • GitHub • Postman • Jupyter
 
 </p>
 
@@ -254,6 +247,27 @@ Python • Machine Learning • SQL • Power BI • AI Engineering
 </div>
 
 ---
+
+### 💬 Let's Talk About
+
+Python • SQL • Machine Learning • Data Science • AI Engineering • Power BI
+
+<br>
+
+### ⚡ Philosophy
+
+> Curiosity over trends.
+
+> Understanding over memorization.
+
+> Building over talking.
+
+</td>
+
+</tr>
+
+</table>
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -268,7 +282,7 @@ Python • Machine Learning • SQL • Power BI • AI Engineering
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -281,48 +295,55 @@ Python • Machine Learning • SQL • Power BI • AI Engineering
 </div>
 
 ---
-# 🌌 Field Notes
 
 <div align="center">
 
-```
-observe()
+---
 
-↓
+*"Every repository begins with a question.*
 
-question()
-
-↓
-
-understand()
-
-↓
-
-repeat()
-```
-
-> *The loop was never meant to end.*
+*Every commit is an attempt at a better answer."*
 
 </div>
 
 ---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://madhufolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</div>
+
+---
+
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Madhusmita111/Madhusmita111/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
 ---
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF" />
-
-<br><br>
-
-*"Still learning.*  
-*Still building.*  
-*Still curious."*
-
-</div>
