@@ -1,198 +1,279 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=observe()+%E2%86%92+question()+%E2%86%92+build()+%E2%86%92+improve();AI+Engineering+%7C+Machine+Learning+%7C+Data+Science;Building+Intelligent+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=observe()+%E2%86%92+question()+%E2%86%92+build()+%E2%86%92+improve();AI+%7C+Machine+Learning+%7C+Data+%7C+Engineering;Building+systems+that+turn+data+into+useful+intelligence"/>
 
 <br>
 
-<h1>Hey, I'm Madhusmita</h1>
+<h1>Hi, I'm Madhusmita 👋</h1>
 
-<h3>AI Engineer • Machine Learning • Data Science</h3>
+<h3>AI & ML Engineer • Data Science • Backend • Cloud & DevOps</h3>
 
 <p>
-Turning curiosity into intelligent systems.
+I build data-driven and intelligent systems that solve practical problems.
+</p>
+
+<p>
+<a href="https://madhufolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/madhusmitatalukdar/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:tmadhusmita011@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👩‍💻 About Me
 
-<table>
+I'm a **Computer Science Engineering student focused on AI, Machine Learning, Data Science, and backend engineering**.
 
-<tr>
+I enjoy taking a problem from an initial idea, working with the data behind it, building the intelligence or backend logic, and turning it into something that people can actually use.
 
-<td width="38%" valign="top">
+My interests sit at the intersection of:
 
-```python
-while True:
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 📊 **Data Science & Analytics**
+* 🧠 **LLMs & Agentic AI**
+* ⚡ **Backend & API Development**
+* ☁️ **Cloud, DevOps & Deployment**
+* 🔄 **Data Engineering & Real-Time Systems**
 
-    observe()
+I don't want to build projects just to demonstrate a technology. I prefer projects where the technology has a reason to exist.
 
-    question()
+### 🔭 Currently Exploring
 
-    build()
+**Agentic AI • LLM Applications • MLOps • Cloud Infrastructure • Data Engineering**
 
-    improve()
+---
+
+# 🧭 How I Build
+
+```text
+        ┌─────────────┐
+        │   Observe   │
+        └──────┬──────┘
+               ↓
+        ┌─────────────┐
+        │   Question  │
+        └──────┬──────┘
+               ↓
+        ┌─────────────┐
+        │    Build    │
+        └──────┬──────┘
+               ↓
+        ┌─────────────┐
+        │   Evaluate  │
+        └──────┬──────┘
+               ↓
+        ┌─────────────┐
+        │   Improve   │
+        └─────────────┘
 ```
 
-</td>
+I care about understanding **why something works**, not just getting it to run.
 
+---
 
-<td width="62%" valign="top">
-
-### 🛰️ Current Signal
-
-Exploring the intersection of **AI**, **Data**, and **Intelligent Systems**.
-
-<br>
-
-### 🧩 What Drives Me
-
-Building systems that don't simply process information, but transform it into understanding.
-
-<br>
-
-### 🌱 Currently Exploring
-
-- 🤖 Agentic AI
-- 🧠 Large Language Models
-- ⚡ FastAPI
-- 📊 Machine Learning
-- ☁️ Data Engineering
-
-<br>
-</tr>
-</table>
-<br>
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-## 👨‍💻 Programming Languages
+### 💻 Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,c,mysql" />
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<br><br>
+
+`Python` • `C++` • `Java` • `C` • `SQL`
 
 ---
 
-## 📊 Data Science
+### 🤖 AI & Machine Learning
 
-<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="50"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="50"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="50"/>
 
-<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<br>
 
-<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+`Scikit-learn` • `TensorFlow` • `PyTorch` • `Hugging Face` • `LangChain` • `OpenCV`
 
-<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+<br>
 
-<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
-
-</p>
-
-**NumPy • Pandas • Scikit-learn • Matplotlib**
-
----
-
-## 🤖 Machine Learning & AI
-
-<p>
-
-<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-
-<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="55"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-</p>
-
-**TensorFlow • PyTorch • Hugging Face • LangChain • OpenCV**
+`Regression` • `Classification` • `Ensemble Learning` • `Clustering`
+• `PCA` • `Model Evaluation` • `Feature Engineering` • `LLM Applications`
 
 ---
 
-## ⚡ Backend & APIs
+### 📊 Data & Analytics
 
-<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau" height="50"/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+<br>
 
-</p>
-
-**FastAPI • Flask • REST APIs**
-
----
-
-## 🗄️ Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-
-</p>
-
-**PostgreSQL • MySQL • MongoDB**
+`NumPy` • `Pandas` • `Matplotlib` • `Power BI` • `Tableau` • `Excel`
 
 ---
 
-## ☁️ Cloud & DevOps
+### ⚡ Backend & APIs
 
-<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postman" />
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github" />
+<br>
 
-</p>
-
-**AWS • Docker • Kubernetes • Linux • Git • GitHub**
+`FastAPI` • `Flask` • `REST APIs` • `Postman`
 
 ---
 
-## 📈 Analytics & BI
+### 🗄️ Databases & Data Engineering
 
-<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka,spark" />
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau" height="55"/>
+<br>
 
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="55"/>
-
-</p>
-
-**Power BI • Tableau • Excel**
+`PostgreSQL` • `MySQL` • `MongoDB` • `Kafka` • `Apache Spark`
+• `ETL` • `CDC` • `Data Pipelines`
 
 ---
 
-## 🛠️ Development Tools
+### ☁️ Cloud & DevOps
 
-<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux" />
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<br>
 
-<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+`AWS` • `Docker` • `Kubernetes` • `Terraform` • `Jenkins`
+• `Linux` • `CI/CD` • `Monitoring`
 
-</p>
+---
 
-**VS Code • Git • GitHub • Postman • Jupyter Notebook**
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
+<br>
+
+`Git` • `GitHub` • `VS Code` • `Jupyter Notebook` • `Google Colab` • `Streamlit`
 
 </div>
 
+---
 
-</td>
+# 🚀 Featured Projects
 
+### 🛡️ Smart URL Safety Checker
+
+A machine-learning based system that evaluates URLs and identifies potentially malicious or unsafe links.
+
+**Highlights**
+
+* Analyzed **70K+ URLs**
+* Engineered **30+ lexical and domain-based features**
+* Built classification models using **Scikit-learn and XGBoost**
+* Improved model performance through **feature engineering and hyperparameter tuning**
+* Exposed the prediction system through a web interface
+
+**Stack:** `Python` `Scikit-learn` `XGBoost` `Flask` `Machine Learning`
+
+---
+
+### 🧠 DataWhisperer Pro
+
+An intelligent data analysis platform designed to let users interact with datasets using natural language and receive analytical insights.
+
+The system combines LLM capabilities with traditional machine learning and statistical analysis to move from **raw data → analysis → insight**.
+
+**Stack:** `Python` `Streamlit` `FastAPI` `LLM` `ChromaDB` `Scikit-learn` `XGBoost` `Prophet` `PostgreSQL` `Docker` `Railway`
+
+---
+
+### 📈 Cross-Platform Engagement Analysis
+
+An analytics project combining **Reddit engagement data with Google Trends** to understand how online discussions and search interest relate across domains.
+
+**Highlights**
+
+* Collected **9,000+ Reddit posts**
+* Integrated Reddit API and Google Trends data
+* Designed a **star-schema data model**
+* Built analytical measures using **DAX**
+* Used **Power Query** for data transformation
+* Created interactive Power BI dashboards for engagement analysis
+
+**Stack:** `Power BI` `Power Query` `DAX` `Reddit API` `Google Trends`
+
+---
+
+### ⚡ QuickLake
+
+A real-time **CDC-to-Lakehouse data platform** designed around a modern retail analytics pipeline.
+
+```text
+PostgreSQL
+     ↓
+ Debezium
+     ↓
+   Kafka
+     ↓
+   Spark
+     ↓
+     S3
+     ↓
+  Redshift
+     ↓
+ Power BI
+```
+
+**Focus:** `CDC` `Streaming` `Data Engineering` `Lakehouse` `ETL` `Cloud`
+
+---
+
+# 🧪 What I'm Working Toward
+
+I'm particularly interested in building systems where different engineering layers come together:
+
+```text
+                Intelligent Applications
+                         │
+                ┌────────┴────────┐
+                │   Agentic AI    │
+                └────────┬────────┘
+                         │
+                ┌────────┴────────┐
+                │   ML / LLMs     │
+                └────────┬────────┘
+                         │
+                ┌────────┴────────┐
+                │ Data Engineering│
+                └────────┬────────┘
+                         │
+                ┌────────┴────────┐
+                │ Cloud / DevOps  │
+                └─────────────────┘
+```
+
+The goal is to become comfortable not only **training models**, but also understanding the systems required to **serve, deploy, scale, and maintain them**.
+
+---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Madhusmita111&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusmita111&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
@@ -210,47 +291,69 @@ Building systems that don't simply process information, but transform it into un
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Madhusmita111&theme=github-dark&hide_border=true&radius=12"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Madhusmita111&theme=github-dark&hide_border=true&radius=10"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 📚 Currently Learning
+
+```text
+Agentic AI
+    ↓
+LLM Applications
+    ↓
+RAG & Tool-Using Systems
+    ↓
+MLOps
+    ↓
+Cloud Infrastructure
+    ↓
+Scalable AI Systems
+```
+
+I'm continuously expanding from **individual models and applications toward production-oriented AI systems**.
 
 ---
 
-*"Every repository begins with a question.*
-
-*Every commit is an attempt at a better answer."*
-
-</div>
-
----
-
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/madhusmitatalukdar/)">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<a href="https://www.linkedin.com/in/madhusmitatalukdar/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   
 
 <a href="mailto:tmadhusmita011@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   
 
 <a href="https://madhufolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   
 
 <a href="https://github.com/Madhusmita111">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Building, learning, breaking things, and building them better.
+
+<br>
+
+*"Every repository begins with a question.* <br>
+*Every commit is an attempt at a better answer."*
+
 </div>
