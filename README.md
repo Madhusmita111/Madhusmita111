@@ -30,30 +30,30 @@ I build data-driven and intelligent systems that solve practical problems.
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
-I'm a **Computer Science Engineering student focused on AI, Machine Learning, Data Science, and backend engineering**.
+I'm a **Computer Science Engineering student focused on AI, Machine Learning, Data Science, and data engineering**.
 
 I enjoy taking a problem from an initial idea, working with the data behind it, building the intelligence or backend logic, and turning it into something that people can actually use.
 
 My interests sit at the intersection of:
 
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 📊 **Data Science & Analytics**
-* 🧠 **LLMs & Agentic AI**
-* ⚡ **Backend & API Development**
-* ☁️ **Cloud, DevOps & Deployment**
-* 🔄 **Data Engineering & Real-Time Systems**
+*  **Artificial Intelligence & Machine Learning**
+*  **Data Science & Analytics**
+*  **LLMs & Agentic AI**
+*  **Backend & API Development**
+*  **Cloud, DevOps & Deployment**
+*  **Data Engineering & Real-Time Systems**
 
 I don't want to build projects just to demonstrate a technology. I prefer projects where the technology has a reason to exist.
 
-### 🔭 Currently Exploring
+###  Currently Exploring
 
 **Agentic AI • LLM Applications • MLOps • Cloud Infrastructure • Data Engineering**
 
 ---
 
-# 🧭 How I Build
+#  How I Build
 
 ```text
         ┌─────────────┐
@@ -81,21 +81,20 @@ I care about understanding **why something works**, not just getting it to run.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,c,mysql" />
 
 <br><br>
 
-`Python` • `C++` • `Java` • `C` • `SQL`
 
 ---
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
@@ -106,7 +105,6 @@ I care about understanding **why something works**, not just getting it to run.
 
 <br>
 
-`Scikit-learn` • `TensorFlow` • `PyTorch` • `Hugging Face` • `LangChain` • `OpenCV`
 
 <br>
 
@@ -115,7 +113,7 @@ I care about understanding **why something works**, not just getting it to run.
 
 ---
 
-### 📊 Data & Analytics
+### Data & Analytics
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
@@ -124,21 +122,20 @@ I care about understanding **why something works**, not just getting it to run.
 
 <br>
 
-`NumPy` • `Pandas` • `Matplotlib` • `Power BI` • `Tableau` • `Excel`
 
 ---
 
-### ⚡ Backend & APIs
+###  Backend & APIs
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,postman" />
 
 <br>
 
-`FastAPI` • `Flask` • `REST APIs` • `Postman`
+`FastAPI` • `Flask`
 
 ---
 
-### 🗄️ Databases & Data Engineering
+###  Databases & Data Engineering
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka,spark" />
 
@@ -149,7 +146,7 @@ I care about understanding **why something works**, not just getting it to run.
 
 ---
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux" />
 
@@ -160,7 +157,7 @@ I care about understanding **why something works**, not just getting it to run.
 
 ---
 
-### 🔧 Tools
+###  Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
@@ -172,76 +169,8 @@ I care about understanding **why something works**, not just getting it to run.
 
 ---
 
-# 🚀 Featured Projects
 
-### 🛡️ Smart URL Safety Checker
-
-A machine-learning based system that evaluates URLs and identifies potentially malicious or unsafe links.
-
-**Highlights**
-
-* Analyzed **70K+ URLs**
-* Engineered **30+ lexical and domain-based features**
-* Built classification models using **Scikit-learn and XGBoost**
-* Improved model performance through **feature engineering and hyperparameter tuning**
-* Exposed the prediction system through a web interface
-
-**Stack:** `Python` `Scikit-learn` `XGBoost` `Flask` `Machine Learning`
-
----
-
-### 🧠 DataWhisperer Pro
-
-An intelligent data analysis platform designed to let users interact with datasets using natural language and receive analytical insights.
-
-The system combines LLM capabilities with traditional machine learning and statistical analysis to move from **raw data → analysis → insight**.
-
-**Stack:** `Python` `Streamlit` `FastAPI` `LLM` `ChromaDB` `Scikit-learn` `XGBoost` `Prophet` `PostgreSQL` `Docker` `Railway`
-
----
-
-### 📈 Cross-Platform Engagement Analysis
-
-An analytics project combining **Reddit engagement data with Google Trends** to understand how online discussions and search interest relate across domains.
-
-**Highlights**
-
-* Collected **9,000+ Reddit posts**
-* Integrated Reddit API and Google Trends data
-* Designed a **star-schema data model**
-* Built analytical measures using **DAX**
-* Used **Power Query** for data transformation
-* Created interactive Power BI dashboards for engagement analysis
-
-**Stack:** `Power BI` `Power Query` `DAX` `Reddit API` `Google Trends`
-
----
-
-### ⚡ QuickLake
-
-A real-time **CDC-to-Lakehouse data platform** designed around a modern retail analytics pipeline.
-
-```text
-PostgreSQL
-     ↓
- Debezium
-     ↓
-   Kafka
-     ↓
-   Spark
-     ↓
-     S3
-     ↓
-  Redshift
-     ↓
- Power BI
-```
-
-**Focus:** `CDC` `Streaming` `Data Engineering` `Lakehouse` `ETL` `Cloud`
-
----
-
-# 🧪 What I'm Working Toward
+# What I'm Working Toward
 
 I'm particularly interested in building systems where different engineering layers come together:
 
@@ -269,7 +198,7 @@ The goal is to become comfortable not only **training models**, but also underst
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -297,7 +226,7 @@ The goal is to become comfortable not only **training models**, but also underst
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 ```text
 Agentic AI
@@ -317,35 +246,6 @@ I'm continuously expanding from **individual models and applications toward prod
 
 ---
 
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/madhusmitatalukdar/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-   
-
-<a href="mailto:tmadhusmita011@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-   
-
-<a href="https://madhufolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-   
-
-<a href="https://github.com/Madhusmita111">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-</div>
-
-<br>
 
 <div align="center">
 
