@@ -167,7 +167,7 @@ I'm particularly interested in building systems where different engineering laye
                 └─────────────────┘
 
 ---
-
+```
 # Currently Learning
 
 ```text
@@ -183,9 +183,6 @@ Cloud Infrastructure
     ↓
 Scalable AI Systems
 ```
-
-I'm continuously expanding from **individual models and applications toward production-oriented AI systems**.
-
 ---
 
 
