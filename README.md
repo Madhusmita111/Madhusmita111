@@ -53,9 +53,6 @@ I don't want to build projects just to demonstrate a technology. I prefer projec
 
 ---
 
-
----
-
 #  Tech Stack
 
 <div align="center">
