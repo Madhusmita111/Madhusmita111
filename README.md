@@ -53,31 +53,6 @@ I don't want to build projects just to demonstrate a technology. I prefer projec
 
 ---
 
-#  How I Build
-
-```text
-        ┌─────────────┐
-        │   Observe   │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │   Question  │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │    Build    │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │   Evaluate  │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │   Improve   │
-        └─────────────┘
-```
-
-I care about understanding **why something works**, not just getting it to run.
 
 ---
 
@@ -98,8 +73,6 @@ I care about understanding **why something works**, not just getting it to run.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="50"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="50"/>
 <img src="https://skillicons.dev/icons?i=opencv" height="50"/>
 
@@ -118,7 +91,7 @@ I care about understanding **why something works**, not just getting it to run.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau" height="50"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,excel" height="50"/>
 
 <br>
 
@@ -127,7 +100,7 @@ I care about understanding **why something works**, not just getting it to run.
 
 ###  Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postman" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
 
 <br>
 
