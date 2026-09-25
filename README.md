@@ -87,7 +87,7 @@ I care about understanding **why something works**, not just getting it to run.
 
 ###  Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 
 <br><br>
 
@@ -192,37 +192,6 @@ I'm particularly interested in building systems where different engineering laye
                 ┌────────┴────────┐
                 │ Cloud / DevOps  │
                 └─────────────────┘
-```
-
-The goal is to become comfortable not only **training models**, but also understanding the systems required to **serve, deploy, scale, and maintain them**.
-
----
-
-#  GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Madhusmita111&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusmita111&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="65%" src="https://streak-stats.demolab.com?user=Madhusmita111&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Madhusmita111&theme=github-dark&hide_border=true&radius=10"/>
-
-</div>
 
 ---
 
