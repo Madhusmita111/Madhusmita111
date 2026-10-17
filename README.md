@@ -30,14 +30,6 @@
   </sub>
 </p>
 
-$ whoami
-madhusmita.talukdar
-
-$ pipeline --run
-extract → transform → analyze → predict
-
-$ result
-signal found.
 
 <!-- <div align="center">
 
