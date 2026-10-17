@@ -1,37 +1,17 @@
- <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Madhusmita+Talukdar;Turning+Chaos+into+Query;Finding+Signal+in+the+Noise" alt="Madhusmita Talukdar" />
+# 𝑀𝒶𝒹𝒽𝓊𝓈𝓂𝒾𝓉𝒶 𝒯𝒶𝓁𝓊𝓀𝒹𝒶𝓇
 
-**DATA ENGINEERING · DATA SCIENCE · ANALYTICS**
+**From raw data to refined intelligence.**
 
-*Structured chaos. Measured uncertainty. Engineered clarity.*
+*I gather the scattered, structure the chaos,*
+*and turn the noise of data into the signal of decisions.*
 
-<br/>
-
-<a href="https://madhusmita111.github.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/madhusmitatalukdar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:tmadhusmita011@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Madhusmita111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-</div>
+[Portfolio](https://madhufolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/madhusmitatalukdar/) · [Email](mailto:tmadhusmita011@gmail.com)
 
 ---
 
-<div align="center">
-
-### `raw data` → `structured insight` → `measurable impact`
-
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,apacheairflow,spark,kafka&theme=dark" alt="Data technologies"/>
-
-<img src="https://skillicons.dev/icons?i=pandas,sklearn,docker,aws,git,linux&theme=dark" alt="Engineering technologies"/>
-
-<img src="https://img.shields.io/badge/Analytics-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Exploration-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Development-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-
-<br/>
-
-*Less noise. More signal. Better systems.*
+*In an ocean of data, I follow the signal beneath the surface.*
 
 </div>
 
