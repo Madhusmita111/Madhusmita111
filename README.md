@@ -1,5 +1,29 @@
 <div align="center">
 
+# 𝑀𝒶𝒹𝒽𝓊𝓈𝓂𝒾𝓉𝒶 𝒯𝒶𝓁𝓊𝓀𝒹𝒶𝓇
+
+**Data Engineering · Data Science · Machine Learning**
+
+*Finding stories in silence,*
+*and structure in chaos.*
+
+[Portfolio](https://madhufolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/madhusmitatalukdar/) · [Email](mailto:tmadhusmita011@gmail.com)
+
+`Python` · `SQL` · `Data Engineering` · `Analytics` · `ML`
+
+</div>
+
+---
+
+<div align="center">
+
+*Making the invisible legible.*
+
+</div>
+
+
+<!-- <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=observe()+%E2%86%92+question()+%E2%86%92+build()+%E2%86%92+improve();AI+%7C+Machine+Learning+%7C+Data+%7C+Engineering;Building+systems+that+turn+data+into+useful+intelligence"/>
 
 <br>
@@ -192,4 +216,4 @@ Scalable AI Systems
 *"Every repository begins with a question.* <br>
 *Every commit is an attempt at a better answer."*
 
-</div>
+</div> -->
