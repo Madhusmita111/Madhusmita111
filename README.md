@@ -1,35 +1,11 @@
+$ whoami
+madhusmita.talukdar
 
-<div align="center">
+$ pipeline --run
+extract → transform → analyze → predict
 
-# Madhusmita Talukdar
-<a href="https://madhufolio.vercel.app">
-  <img src="assets/data-ocean-banner.png" width="100%" alt="Madhusmita Talukdar | From raw data to refined intelligence"/>
-</a>
-
-<br/>
-
-### `DATA ENGINEERING` · `DATA SCIENCE` · `MACHINE LEARNING`
-
-*I gather the scattered, structure the chaos,*
-*and turn the noise of data into the signal of decisions.*
-
-<br/>
-
-<a href="https://madhufolio.vercel.app">
-  <img src="https://img.shields.io/badge/✦_Portfolio-101827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/madhusmitatalukdar/">
-  <img src="https://img.shields.io/badge/LinkedIn-101827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="mailto:tmadhusmita011@gmail.com">
-  <img src="https://img.shields.io/badge/Email-101827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<sub>✧ In an ocean of data, I follow the signal beneath the surface. ✧</sub>
-
-</div>
+$ result
+signal found.
 
 <!-- <div align="center">
 
