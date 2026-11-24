@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://madhufolio.vercel.app">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&width=850&height=110&lines=Madhusmita+Talukdar;raw_data+%3E+transform()+%3E+insight();Finding+signal+in+the+noise"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&width=850&height=110&lines=Madhusmita+Talukdar;Finding+signal+in+the+noise"
       alt="Madhusmita Talukdar"
     />
   </a>
