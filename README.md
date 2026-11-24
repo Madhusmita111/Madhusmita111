@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://madhufolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-0B1710?style=flat-square&logo=vercel&logoColor=3FB950" alt="Portfolio"/>
   </a>
@@ -21,14 +21,14 @@
   <a href="mailto:tmadhusmita011@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B1710?style=flat-square&logo=gmail&logoColor=3FB950" alt="Email"/>
   </a>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <sub>
     <samp>From fragmented data to structured intelligence.</samp><br/>
     <samp>In an ocean of data, I follow the signal beneath the surface.</samp>
   </sub>
-</p>
+</p> -->
 
 
 <!-- <div align="center">
